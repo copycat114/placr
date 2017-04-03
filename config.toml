@@ -1,7 +1,7 @@
 text = "4chan"
 background_color = 8    #number of color, as displayed on /r/place, starting from 0
 text_color = 10          #e.g. white is 0, black is 3 and red is 5
-text_position = [0, 0]  #coordinates of top left corner of text
+text_position = [133, 713]  #coordinates of top left corner of text
 fill_background = false #fill the background of the text with background_color
 background_later = true #draw background only after text is finished
 padding = 0             #padding around text (treated as background)
